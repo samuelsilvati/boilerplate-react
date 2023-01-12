@@ -11,7 +11,6 @@ To run this project, you need clone this repo and run this code in yout local fo
 ### Tech's used
 
 - [x] ReactJS
-- [x] Typescript
 - [x] ESlint
 - [x] Prettier
 - [x] Styled Components
